@@ -16,6 +16,7 @@
         <description lang="en_GB">Helper script to provide features and functions to the skin.</description>
         <platform>all</platform>
         <license>GPL-2.0-only</license>
+        <source>https://github.com/mkwilliams14/script.magic.helper</source>
         <assets>
             <icon>resources/icon.png</icon>
             <fanart>resources/fanart.jpg</fanart>
